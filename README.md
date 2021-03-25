@@ -111,7 +111,7 @@ bulbasaur.attack(0, pikachu);
 
 
 
-### Calculator.js 
+# Calculator
 - A library which contains useful calculation functions based on common formulas (aspect ratio, percentage calculation, etc…)
 
 
@@ -148,7 +148,7 @@ calculate.sqrt(x) // Returns the square root of x.
 ```
 
 
-## Object-string Project
+# Object-string Project
 
 ### String
 
