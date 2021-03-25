@@ -1,4 +1,3 @@
-
 # The Cashier Problem 
 
 Create a program that helps a cashier give adequate change to customers. The program should return the amount of notes and coins for the customer's change. 
@@ -20,7 +19,9 @@ Example: Price: €4.50, Paid amount: €20, Change: 15.50
 * Notes
 * Include outputs for exceptions e.g. price: €4, paid amount: €3. 
 
-
+---
+---
+---
 
 # Pokemon Lite
 
@@ -108,7 +109,9 @@ bulbasaur.attack(0, pikachu);
 ```
 ## Bonus: Add some more Pokemon and attack types. 
 
-
+---
+---
+---
 
 
 # Calculator
@@ -147,6 +150,9 @@ calculate.elevate(x, y) // Returns the power of x elevated to y.
 calculate.sqrt(x) // Returns the square root of x.
 ```
 
+---
+---
+---
 
 # Object-string Project
 
